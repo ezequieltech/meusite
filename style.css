@@ -1,3 +1,10 @@
+header {
+    border-bottom: solid 3px #ca9c11 ;
+    padding: 10px;
+    font-size: 22px;
+    color: white;
+}
+
 body {
   background-color: #ADD8E6; ; 
 }
